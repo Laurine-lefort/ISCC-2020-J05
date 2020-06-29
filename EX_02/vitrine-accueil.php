@@ -21,8 +21,7 @@
       <img src="asset4/22ee25f8e3_50030449_fotolia-25828130-s-page42.jpg" alt="image2">
       </p>
 </main2>
-<footer>
-    <img src="asset4/logo_epitech.png" alt="logo epitech">
-</footer>
+
+<?php include("footer.php"); ?>
 </body>
 </html>

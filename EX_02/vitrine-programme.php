@@ -97,5 +97,6 @@
             <td>Soutenance Projet MyDevBlog</td>
         </tr>
     </table>
+    <?php include("footer.php"); ?>
 </body>
 </html>

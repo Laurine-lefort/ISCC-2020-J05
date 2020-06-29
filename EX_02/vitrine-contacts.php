@@ -30,6 +30,6 @@
     
     <input id="submit_button" type="submit" value="Send email" />
 </form>
-    
+<?php include("footer.php"); ?>
     </body>
 </html>
