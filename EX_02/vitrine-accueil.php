@@ -6,7 +6,11 @@
     <link rel="stylesheet" href="style/vitrine.css">
 </head>
     
-<?php include("header.php"); ?>
+<?php include("header.php");
+$accueil='Accueil';
+$color = '#17c1ff';
+?>
+<b style='color: <?php echo $color; ?>;'></b> 
 <body>
 <main>
     <h2>ACCUEIL</h2>
